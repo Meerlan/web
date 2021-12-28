@@ -1,8 +1,6 @@
 # Blood Bank
 A simple blood bank project. 
 
-Full Documentation [Click here](h)
-
 # Problem Statement
 1) Assume you are designing a real-life system, that will be used by real users.
 2) The application should contain 2 types of users: Hospitals and Receivers
