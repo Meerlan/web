@@ -53,3 +53,5 @@ A simple blood bank project.
 * If a user wants 100 ml A+ blood, then the user can apply filter in the landing page and request with the blood bank which have 100 ml of A+ blood.
 
 ![request blood](snapshot/index_request.JPG)
+
+Team members: Kubanych and Meerlan
